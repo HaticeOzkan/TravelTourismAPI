@@ -10,7 +10,7 @@ namespace TravelTourismAPI.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
-        // GET api/values
+        // GET api/values BAŞLANGIC TEST
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
