@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\TravelTourismAPI\TravelTourismAPI\TravelTourismAPI\bin\Debug\netcoreapp2.1\TravelTourismAPI.deps.json
+C:\Users\PC\source\repos\TravelTourismAPI\TravelTourismAPI\TravelTourismAPI\bin\Debug\netcoreapp2.1\TravelTourismAPI.runtimeconfig.json
+C:\Users\PC\source\repos\TravelTourismAPI\TravelTourismAPI\TravelTourismAPI\bin\Debug\netcoreapp2.1\TravelTourismAPI.runtimeconfig.dev.json
+C:\Users\PC\source\repos\TravelTourismAPI\TravelTourismAPI\TravelTourismAPI\bin\Debug\netcoreapp2.1\TravelTourismAPI.dll
+C:\Users\PC\source\repos\TravelTourismAPI\TravelTourismAPI\TravelTourismAPI\bin\Debug\netcoreapp2.1\TravelTourismAPI.pdb
+C:\Users\PC\source\repos\TravelTourismAPI\TravelTourismAPI\TravelTourismAPI\obj\Debug\netcoreapp2.1\TravelTourismAPI.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\TravelTourismAPI\TravelTourismAPI\TravelTourismAPI\obj\Debug\netcoreapp2.1\TravelTourismAPI.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TravelTourismAPI\TravelTourismAPI\TravelTourismAPI\obj\Debug\netcoreapp2.1\TravelTourismAPI.RazorAssemblyInfo.cache
+C:\Users\PC\source\repos\TravelTourismAPI\TravelTourismAPI\TravelTourismAPI\obj\Debug\netcoreapp2.1\TravelTourismAPI.RazorAssemblyInfo.cs
+C:\Users\PC\source\repos\TravelTourismAPI\TravelTourismAPI\TravelTourismAPI\obj\Debug\netcoreapp2.1\TravelTourismAPI.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\TravelTourismAPI\TravelTourismAPI\TravelTourismAPI\obj\Debug\netcoreapp2.1\TravelTourismAPI.AssemblyInfo.cs
+C:\Users\PC\source\repos\TravelTourismAPI\TravelTourismAPI\TravelTourismAPI\obj\Debug\netcoreapp2.1\TravelTourismAPI.RazorTargetAssemblyInfo.cache
+C:\Users\PC\source\repos\TravelTourismAPI\TravelTourismAPI\TravelTourismAPI\obj\Debug\netcoreapp2.1\TravelTourismAPI.dll
+C:\Users\PC\source\repos\TravelTourismAPI\TravelTourismAPI\TravelTourismAPI\obj\Debug\netcoreapp2.1\TravelTourismAPI.pdb
